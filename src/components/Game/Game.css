@@ -1,0 +1,8 @@
+.gameWrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.boardWrapper {
+  margin: auto;
+}
